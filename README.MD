@@ -1,9 +1,9 @@
-#My Chemical Simulator
+# My Chemical Simulator
 
 This is a simulator of chemical reactions. 
 Here you can perform the chemical reactions that involve up to 70 different compounds, starting with diatomic molecules and including oxids, oxyacids, hydrides, hydracides, hydroxides and oxyacids composed with the first 20 elements in the periodic table.
 
-##How to play
+## How to play
 
 The steps to use this app in the correct way are:
 
@@ -15,17 +15,17 @@ The steps to use this app in the correct way are:
     * The performed reactions can be reviewed in the `Reactions` sections.
     * Be sure to balance the number of reagent so the reaction happens.  
 
-##Demonstration
+## Demonstration
 
 Please check this video to see the app in action:
 
 [![My Chemical Simulator video](https://img.youtube.com/vi/XUY8N9250c8/0.jpg)](https://www.youtube.com/watch?v=XUY8N9250c8)
 
-##Purpose of the app
+## Purpose of the app
 
 With this app we pretend to optimize the learning of stoichiometry in chemical reactions for students of chemistry in differents education levels applying techniques like *learning by discover* and *learning by reinforcement* so the acquired knowledge is fixed in long term memory.
 
-##Contents
+## Contents
 
 | App File Name | Team Name | Short Description | Licence | Country | Author’s github profile |
 |---------------|:----------|-------------------|:--------|:--------|:------------------------|
