@@ -1,0 +1,22 @@
+<textureatlas xmlns="http://www.w3.org/1999/xhtml" imagepath="elementos.png">
+	<subtexture name="Ca" x="157" y="8" width="149" height="150"></subtexture>
+	<subtexture name="Mg" x="9" y="11" width="143" height="144"></subtexture>
+	<subtexture name="Si" x="464" y="14" width="126" height="126"></subtexture>
+	<subtexture name="Al" x="320" y="16" width="129" height="129"></subtexture>
+	<subtexture name="Be" x="625" y="22" width="114" height="114"></subtexture>
+	<subtexture name="B" x="625" y="163" width="108" height="109"></subtexture>	
+	<subtexture name="Ar" x="389" y="168" width="105" height="106"></subtexture>
+	<subtexture name="S" x="15" y="170" width="108" height="108"></subtexture>
+	<subtexture name="Cl" x="145" y="172" width="104" height="104"></subtexture>
+	<subtexture name="Ne" x="272" y="177" width="91" height="90"></subtexture>
+	<subtexture name="H" x="519" y="190" width="69" height="69"></subtexture>
+	<subtexture name="C" x="14" y="310" width="102" height="102"></subtexture>
+	<subtexture name="N" x="154" y="314" width="95" height="95"></subtexture>
+	<subtexture name="F" x="402" y="318" width="84" height="83"></subtexture>
+	<subtexture name="He" x="526" y="318" width="83" height="83"></subtexture>
+	<subtexture name="O" x="289" y="319" width="86" height="86"></subtexture>
+	<subtexture name="K" x="336" y="416" width="156" height="156"></subtexture>
+	<subtexture name="Na" x="159" y="427" width="143" height="142"></subtexture>
+	<subtexture name="P" x="521" y="433" width="108" height="109"></subtexture>
+	<subtexture name="Li" x="13" y="438" width="121" height="122"></subtexture>
+</textureatlas>
