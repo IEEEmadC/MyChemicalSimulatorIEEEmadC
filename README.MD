@@ -29,4 +29,4 @@ With this app we pretend to optimize the learning of stoichiometry in chemical r
 
 | App File Name | Team Name | Short Description | Licence | Country | Author’s github profile |
 |---------------|:----------|-------------------|:--------|:--------|:------------------------|
-|[My Chemical Simulator](../source/MyChemicalSimulator.apk)|Juanpa-dev|This is a simulator of chemical reactions.| GNU GPLv3 | Colombia | [jupmorenor](https://github.com/jupmorenor)|
+|[My Chemical Simulator](/source/MyChemicalSimulator.apk)|Juanpa-dev|This is a simulator of chemical reactions.| GNU GPLv3 | Colombia | [jupmorenor](https://github.com/jupmorenor)|
